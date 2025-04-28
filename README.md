@@ -29,3 +29,17 @@ File Handling and Exception Handling Assignment
 Description:
 1. File Read & Write Challenge 🖋️: Create a program that reads a file and writes a modified version to a new file.
 2. Error Handling Lab 🧪: Ask the user for a filename and handle errors if it doesn’t exist or can’t be read.
+
+
+# WEEK 5 ASSIGNMENT.
+OOP Assignment
+
+Description:
+Assignment 1: Design Your Own Class! 🏗️
+1. Create a class representing anything you like (a Smartphone, Book, or even a Superhero!).
+2. Add attributes and methods to bring the class to life!
+3. Use constructors to initialize each object with unique values.
+4. Add an inheritance layer to explore polymorphism or encapsulation.
+
+Activity 2: Polymorphism Challenge! 🎭
+Create a program that includes animals or vehicles with the same action (like move()). However, make each class define move() differently (for example, Car.move() prints "Driving" 🚗, while Plane.move() prints "Flying" ✈️).
